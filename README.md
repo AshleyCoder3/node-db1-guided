@@ -9,6 +9,6 @@ In this project we will cover the basics of `Structure Query Language (SQL)`, `R
 
 ## Project Setup
 
-- [ ] clone this repository.
-- [ ] move into the project folder.
-- [ ] type `npm i` to download dependencies.
+- [X] clone this repository.
+- [X] move into the project folder.
+- [X] type `npm i` to download dependencies.
